@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Checks that agree before a wallet is treated as valid.
 //!
 //! The independent path starts from the raw scalar. `k256` derives the

@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! secp256k1 compressed public keys and mainnet P2PKH payloads.
 //!
 //! The search uses libsecp256k1. `k256` is only used by the independent check.

@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Encrypted wallet file.
 //!
 //! The file holds the 32-byte secp256k1 scalar, not the WIF string. The key is

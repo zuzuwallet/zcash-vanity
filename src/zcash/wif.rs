@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Compressed mainnet WIF.
 //!
 //! Protocol section 5.6.1.2 points at Bitcoin Base58Check. zcashd

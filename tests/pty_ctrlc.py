@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+
+# Copyright (c) 2026 ZuZu Wallet
+# https://ZuZuWallet.com
+# Support@ZuZuWallet.com
+# SPDX-License-Identifier: MIT OR Apache-2.0
+
 """Ctrl-C on a PTY: echo returns, and no WIF or unsaved address is printed."""
 
 import fcntl

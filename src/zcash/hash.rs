@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! HASH160 and the Base58Check checksum.
 //!
 //! HASH160 is RIPEMD-160(SHA-256(data)), as section 5.6.1.1 requires.

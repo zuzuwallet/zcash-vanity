@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Prefix checks for mainnet transparent P2PKH addresses.
 //!
 //! Every such address is the Base58 encoding of a 26-byte payload:

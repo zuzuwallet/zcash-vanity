@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Mainnet transparent P2PKH derivation.
 //!
 //! The search path is libsecp256k1, `sha2`, `ripemd`, and this crate's
