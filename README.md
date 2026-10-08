@@ -12,20 +12,6 @@ Each candidate uses a fresh 32-byte private-key candidate from the operating-sys
 
 The private key is **not printed during generation**.
 
-> [!WARNING]
-> This tool generates **transparent `t1` addresses**.
->
-> A vanity address does not add Zcash shielded privacy. Payments to a `t1` address are publicly visible on-chain. This project does not generate Sapling, Orchard, TEX, or Unified Addresses.
->
-> If your goal is Zcash privacy rather than a transparent vanity address, this is not the right address type.
-
-> [!CAUTION]
-> This is key-generation software.
->
-> Passing the test suite does not prove that a wallet is safe for significant funds. Review the source, dependency lockfile, wallet format, and compiled binary yourself—or have someone else review them—before funding an address produced by this program.
->
-> Never paste a generated WIF, raw private key, wallet passphrase, or encrypted wallet file into a website, AI/chat system, issue tracker, shell command, or online verification service.
-
 ---
 
 ## Highlights
